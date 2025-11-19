@@ -1,0 +1,24 @@
+{
+  "name": "js-ts-exercises-conditionals-and-functions-ernxq00-droid",
+  "version": "1.0.0",
+  "description": "```js\r Syntax:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsd-genkx/js-ts-exercises-conditionals-and-functions-ernxq00-droid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsd-genkx/js-ts-exercises-conditionals-and-functions-ernxq00-droid/issues"
+  },
+  "homepage": "https://github.com/jsd-genkx/js-ts-exercises-conditionals-and-functions-ernxq00-droid#readme",
+  "dependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
